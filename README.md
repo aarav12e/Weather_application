@@ -84,12 +84,6 @@ Deploy this project for free using:
 
 ---
 
-## 📸 Screenshots
-
-> _Add your app screenshots here_
-
----
-
 ## 🎯 What You'll Learn
 
 - React fundamentals — components, state, and hooks
@@ -107,13 +101,6 @@ Deploy this project for free using:
 - [ ] 🌙 Dark mode toggle
 - [ ] 📱 Enhanced mobile UI
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Author
 
